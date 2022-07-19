@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Lukas Nagel</h1>
 <h3 align="center">A backend developer from Germany</h3>
+<br>
 
 <!--  -->
 
+## Github Profile Trophy
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lna-dev" alt="lna-dev" /></a> </p>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lna-dev" alt="lna-dev" /></a> </p>
-
+## Contributions
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lna-dev&" alt="lna-dev" /></p>
+<br>
+
+## Most used languages
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lna-dev&show_icons=true&locale=en&layout=compact" alt="lna-dev" /></p>
 
 <br>
