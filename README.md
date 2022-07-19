@@ -2,6 +2,12 @@
 <h3 align="center">A backend developer from Germany</h3>
 <br>
 
+## Website
+On my website I showcase my different projects. It serves as an hub for all of this projects and provides links. 
+[Go and have a look](https://lna-dev.com)
+
+<br>
+
 <!--  -->
 
 ## Github Profile Trophy
