@@ -14,18 +14,18 @@ On my website I showcase my different projects. It serves as an hub for all of t
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lna-dev" alt="lna-dev" /></a> </p>
 <br>
 
-## Contributions 
+## Contributions ✨
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lna-dev&" alt="lna-dev" /></p>
 <br>
 
-## Most used languages
+## Most used languages 💻
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lna-dev&show_icons=true&locale=en&layout=compact" alt="lna-dev" /></p>
 
 <br>
 
 <!--  -->
 
-## Languages and Tools I use
+## Languages and Tools I use 🔧
 
 <!-- TODO REST, GithubActions, Azure Pipelines-->
 
