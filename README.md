@@ -40,6 +40,7 @@ On my website I showcase my different projects. It serves as an hub for all of t
 <a href="https://nuget.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" alt="MarkDown" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"> </a>
 </p>
 
 ---
@@ -54,7 +55,6 @@ On my website I showcase my different projects. It serves as an hub for all of t
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"> </a>
 </p>
 
 ---
