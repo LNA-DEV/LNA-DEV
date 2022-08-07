@@ -18,6 +18,11 @@ On my website I showcase my different projects. It serves as an hub for all of t
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lna-dev&" alt="lna-dev" /></p>
 <br>
 
+## Time spent 🕒
+[![wakatime](https://wakatime.com/badge/user/d37401d6-1566-41ea-b7ab-8cc7d2c9f55b/project/30bc0bbb-b4c4-4c80-b09e-6a65580b9d8f.svg)](https://wakatime.com/badge/user/d37401d6-1566-41ea-b7ab-8cc7d2c9f55b/project/30bc0bbb-b4c4-4c80-b09e-6a65580b9d8f)
+
+<br>
+
 ## Most used languages 💻
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lna-dev&show_icons=true&locale=en&layout=compact" alt="lna-dev" /></p>
 
