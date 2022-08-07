@@ -7,6 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
+    # Docs: https://github.com/anmol098/waka-readme-stats
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
