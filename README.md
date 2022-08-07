@@ -3,7 +3,8 @@
 <br>
 
 ## Website 🌐
-On my website I showcase my different projects. It serves as an hub for all of this projects and provides links. 
+
+On my website I showcase my different projects. It serves as an hub for all of this projects and provides links.
 [Go and have a look](https://lna-dev.com)
 
 <br>
@@ -11,19 +12,23 @@ On my website I showcase my different projects. It serves as an hub for all of t
 <!--  -->
 
 ## Github Profile Trophy 🏆
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lna-dev" alt="lna-dev" /></a> </p>
 <br>
 
 ## Contributions ✨
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lna-dev&" alt="lna-dev" /></p>
 <br>
 
 ## Time spent 🕒
+
 [![wakatime](https://wakatime.com/badge/user/d37401d6-1566-41ea-b7ab-8cc7d2c9f55b/project/30bc0bbb-b4c4-4c80-b09e-6a65580b9d8f.svg)](https://wakatime.com/badge/user/d37401d6-1566-41ea-b7ab-8cc7d2c9f55b/project/30bc0bbb-b4c4-4c80-b09e-6a65580b9d8f)
 
 <br>
 
 ## Most used languages 💻
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lna-dev&show_icons=true&locale=en&layout=compact" alt="lna-dev" /></p>
 
 <br>
@@ -37,6 +42,7 @@ On my website I showcase my different projects. It serves as an hub for all of t
 ---
 
 ### Level 3 ~ Good 🥇
+
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -51,6 +57,7 @@ On my website I showcase my different projects. It serves as an hub for all of t
 ---
 
 ### Level 2 ~ Moderate 🥈
+
 <p align="left">
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -65,6 +72,7 @@ On my website I showcase my different projects. It serves as an hub for all of t
 ---
 
 ### Level 1 ~ Basics 🥉
+
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
