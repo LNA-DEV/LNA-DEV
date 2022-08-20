@@ -19,6 +19,15 @@ On my website I showcase my different projects. It serves as an hub for all of t
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lna-dev&" alt="lna-dev" /></p>
 <br>
 
+## Stats 〽️
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/LNA-DEV/GitHubStats/master/generated/overview.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/LNA-DEV/GitHubStats/master/generated/overview.svg#gh-light-mode-only">
+</p>
+
+<br>
+
 ## Time spent 🕒
 
 ### Total
@@ -31,13 +40,11 @@ On my website I showcase my different projects. It serves as an hub for all of t
 
 <br>
 
-## Most used languages 💻
+<!-- ## Most used languages 💻
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lna-dev&show_icons=true&locale=en&layout=compact" alt="lna-dev" /></p>
 
-<br>
-
-<!--  -->
+<br> -->
 
 ## Languages and Tools I use 🔧
 
