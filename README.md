@@ -28,7 +28,7 @@ On my website I showcase my different projects. It serves as an hub for all of t
 
 <br>
 
-## Time spent 🕒
+<!-- ## Time spent 🕒
 
 ### Total
 
@@ -38,7 +38,7 @@ On my website I showcase my different projects. It serves as an hub for all of t
 
 [![wakatime](https://wakatime.com/badge/user/d37401d6-1566-41ea-b7ab-8cc7d2c9f55b/project/30bc0bbb-b4c4-4c80-b09e-6a65580b9d8f.svg)](https://wakatime.com/badge/user/d37401d6-1566-41ea-b7ab-8cc7d2c9f55b/project/30bc0bbb-b4c4-4c80-b09e-6a65580b9d8f)
 
-<br>
+<br> -->
 
 <!-- ## Most used languages 💻
 
