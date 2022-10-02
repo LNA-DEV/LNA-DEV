@@ -22,8 +22,8 @@ On my website I showcase my different projects. It serves as an hub for all of t
 ## Stats 〽️
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/LNA-DEV/GitHubStats/master/generated/overview.svg#gh-dark-mode-only">
-<img src="https://raw.githubusercontent.com/LNA-DEV/GitHubStats/master/generated/overview.svg#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/LNA-DEV/LNA-DEV/master/GitHubStats/generated/overview.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/LNA-DEV/LNA-DEV/master/GitHubStats/generated/overview.svg#gh-light-mode-only">
 </p>
 
 <br>
