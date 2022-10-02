@@ -38,7 +38,7 @@ jobs:
     - name: Install requirements
       run: |
         python3 -m pip install --upgrade pip setuptools wheel
-        python3 -m pip install -r /GitHubStats/requirements.txt
+        python3 -m pip install -r GitHubStats/requirements.txt
 
     # Generate all statistics images
     - name: Generate images
