@@ -22,7 +22,7 @@ On my website I showcase my different projects. It serves as an hub for all of t
 
 <br>
 
-## Stats 〽️
+## Stats 📈
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/LNA-DEV/LNA-DEV/master/GitHubStats/generated/overview.svg#gh-dark-mode-only">
