@@ -6,7 +6,7 @@
 ## Website 🌐
 
 On my website I showcase my different projects. It serves as an hub for all of this projects and provides links.
-[Go and have a look](https://lna-dev.net)
+[Go and have a look.](https://lna-dev.net)
 
 <br>
 
