@@ -13,6 +13,7 @@ import sys
 import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
+from urllib.parse import urlsplit, urlunsplit
 
 from PIL import Image
 
@@ -28,6 +29,7 @@ THUMB_VARIANT = "/fit-600x600/"  # the size the website's own grids use
 
 MEDIA_NS = "{http://search.yahoo.com/mrss/}"
 USER_AGENT = "LNA-DEV-profile-readme"
+REF = "ref=github-profile"  # lets Plausible attribute visits to this profile
 README = "README.md"
 
 
@@ -35,6 +37,13 @@ def fetch(url):
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(request, timeout=60) as response:
         return response.read()
+
+
+def with_ref(url):
+    """The URL with ?ref= added in front of any #fragment."""
+    parts = urlsplit(url)
+    query = f"{parts.query}&{REF}" if parts.query else REF
+    return urlunsplit(parts._replace(query=query))
 
 
 def published(item):
@@ -52,7 +61,7 @@ def posts_markdown():
     lines = []
     for item in feed_items(POSTS_FEED)[:POST_COUNT]:
         title = item.findtext("title").strip()
-        link = item.findtext("link").strip()
+        link = with_ref(item.findtext("link").strip())
         lines.append(f"- [{title}]({link}) <sub>{published(item):%b %Y}</sub>")
     return "\n".join(lines)
 
@@ -72,7 +81,7 @@ def latest_photos():
         title = item.findtext("title").strip()
         photos.append({
             "src": source,
-            "link": item.findtext("link").strip(),
+            "link": with_ref(item.findtext("link").strip()),
             "title": title,
             "alt": (img.get("alt") if img is not None else None) or title,
             "ratio": width / height,
